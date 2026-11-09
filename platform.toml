@@ -2,7 +2,6 @@
 name = "dracula-theme"
 type = "library"
 ci = "github"
-language = "python"
 
 [release]
 strategy = "semver"
